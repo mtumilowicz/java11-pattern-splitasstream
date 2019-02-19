@@ -31,7 +31,7 @@ Two easy examples:
 
     assertThat(top3Letters, is(List.of("a", "b", "c")));    
     ```
-1. count the words appearances
+1. count the words occurrences
     ```
     var pattern = Pattern.compile(" ");
     
