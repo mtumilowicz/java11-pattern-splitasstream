@@ -13,7 +13,7 @@ in the input
 * trailing empty strings will be discarded
 * if this pattern does not match any subsequence of the input then
 the resulting stream has just one element - input sequence in 
-string form
+the string form
 * if the input sequence is mutable, it must remain constant 
 during the execution of the terminal stream operation, otherwise 
 the result of the terminal stream operation is undefined
