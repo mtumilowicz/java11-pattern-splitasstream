@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-pattern-splitasstream.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-pattern-splitasstream)
+
 # java11-pattern-splitasstream
 
 # preface
